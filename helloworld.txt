@@ -1,10 +1,3 @@
 こんにちは、世界
-あ
-Wow!
-Sub1 test
 
-sub2 test
-sub2-1
-
-
-Masterだよ
+Sub3
