@@ -1,3 +1,10 @@
 こんにちは、世界
 
+<<<<<<< HEAD
 Sub3
+=======
+sub2 test
+sub2-1
+
+
+>>>>>>> parent of a89107a... Master push
